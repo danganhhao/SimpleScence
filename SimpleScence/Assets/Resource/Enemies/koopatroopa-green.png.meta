@@ -1,0 +1,2294 @@
+fileFormatVersion: 2
+guid: b19d918d9b344f04087347c2b75abcf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5089327112657895988
+    second: koopatroopa-green_0
+  - first:
+      213: -1575146893126350183
+    second: koopatroopa-green_1
+  - first:
+      213: -5018689876282076400
+    second: koopatroopa-green_2
+  - first:
+      213: -9144787364906299732
+    second: koopatroopa-green_3
+  - first:
+      213: 6941537187817036662
+    second: koopatroopa-green_4
+  - first:
+      213: 8070138743630010029
+    second: koopatroopa-green_5
+  - first:
+      213: -7461879068197148718
+    second: koopatroopa-green_6
+  - first:
+      213: 6971025046185168908
+    second: koopatroopa-green_7
+  - first:
+      213: 5135629374330656995
+    second: koopatroopa-green_8
+  - first:
+      213: -4191735543044358587
+    second: koopatroopa-green_9
+  - first:
+      213: -2263127668122709447
+    second: koopatroopa-green_10
+  - first:
+      213: -9068812946581750586
+    second: koopatroopa-green_11
+  - first:
+      213: -5845457495479244265
+    second: koopatroopa-green_12
+  - first:
+      213: -6348833364456469331
+    second: koopatroopa-green_13
+  - first:
+      213: 475778036345915719
+    second: koopatroopa-green_14
+  - first:
+      213: -1511203040917489718
+    second: koopatroopa-green_15
+  - first:
+      213: 7048820356866308353
+    second: koopatroopa-green_16
+  - first:
+      213: 4860385521934067244
+    second: koopatroopa-green_17
+  - first:
+      213: 8631487280097723694
+    second: koopatroopa-green_18
+  - first:
+      213: -5990030729113074118
+    second: koopatroopa-green_19
+  - first:
+      213: 830280658611213044
+    second: koopatroopa-green_20
+  - first:
+      213: 3939221474225673842
+    second: koopatroopa-green_21
+  - first:
+      213: 3721120902366943098
+    second: koopatroopa-green_22
+  - first:
+      213: 2120931459526877840
+    second: koopatroopa-green_23
+  - first:
+      213: -3089984345816752159
+    second: koopatroopa-green_24
+  - first:
+      213: 4017488422531654701
+    second: koopatroopa-green_25
+  - first:
+      213: -186186972456925920
+    second: koopatroopa-green_26
+  - first:
+      213: -7653231408878250188
+    second: koopatroopa-green_27
+  - first:
+      213: -4591063991155498008
+    second: koopatroopa-green_28
+  - first:
+      213: 315586037723585891
+    second: koopatroopa-green_29
+  - first:
+      213: 7986461067904012259
+    second: koopatroopa-green_30
+  - first:
+      213: -4922510093901421755
+    second: koopatroopa-green_31
+  - first:
+      213: -1693071074909757358
+    second: koopatroopa-green_32
+  - first:
+      213: 5608091901154062186
+    second: koopatroopa-green_33
+  - first:
+      213: 3791537115269242531
+    second: koopatroopa-green_34
+  - first:
+      213: 102070270428219091
+    second: koopatroopa-green_35
+  - first:
+      213: 1834212398339323276
+    second: koopatroopa-green_36
+  - first:
+      213: -3508848433438002565
+    second: koopatroopa-green_37
+  - first:
+      213: 250700348793123915
+    second: koopatroopa-green_38
+  - first:
+      213: -1536059534147462489
+    second: koopatroopa-green_39
+  - first:
+      213: 1602157151778929545
+    second: koopatroopa-green_40
+  - first:
+      213: 6495078234391727550
+    second: koopatroopa-green_41
+  - first:
+      213: 459183080613165097
+    second: koopatroopa-green_42
+  - first:
+      213: 534352939439374064
+    second: koopatroopa-green_43
+  - first:
+      213: -7576970879317430209
+    second: koopatroopa-green_44
+  - first:
+      213: 820669210308837348
+    second: koopatroopa-green_45
+  - first:
+      213: 5527669151171656439
+    second: koopatroopa-green_46
+  - first:
+      213: 7020114554466464984
+    second: koopatroopa-green_47
+  - first:
+      213: 1997039699733641551
+    second: koopatroopa-green_48
+  - first:
+      213: -760934598763887157
+    second: koopatroopa-green_49
+  - first:
+      213: -2526792770577361826
+    second: koopatroopa-green_50
+  - first:
+      213: 7915820085773556917
+    second: koopatroopa-green_51
+  - first:
+      213: 5412658002813703017
+    second: koopatroopa-green_52
+  - first:
+      213: -6616722094393509980
+    second: koopatroopa-green_53
+  - first:
+      213: 8319081149305234200
+    second: koopatroopa-green_54
+  - first:
+      213: 3174977811367840265
+    second: koopatroopa-green_55
+  - first:
+      213: -5152732139995592832
+    second: koopatroopa-green_56
+  - first:
+      213: -2787807013473905261
+    second: koopatroopa-green_57
+  - first:
+      213: -5853950230908335432
+    second: koopatroopa-green_58
+  - first:
+      213: 8077589615554668603
+    second: koopatroopa-green_59
+  - first:
+      213: -5122079857526219422
+    second: koopatroopa-green_60
+  - first:
+      213: 5889468008507728218
+    second: koopatroopa-green_61
+  - first:
+      213: 6117721629689643008
+    second: koopatroopa-green_62
+  - first:
+      213: -7456190473740049891
+    second: koopatroopa-green_63
+  - first:
+      213: 8531683349246314528
+    second: koopatroopa-green_64
+  - first:
+      213: -7035948960318807069
+    second: koopatroopa-green_65
+  - first:
+      213: 4663396046313190910
+    second: koopatroopa-green_66
+  - first:
+      213: -8665048228411510702
+    second: koopatroopa-green_67
+  - first:
+      213: -5592687106606332432
+    second: koopatroopa-green_68
+  - first:
+      213: -4401010858474199961
+    second: koopatroopa-green_69
+  - first:
+      213: 9108860483887412294
+    second: koopatroopa-green_70
+  - first:
+      213: 3991580837833363558
+    second: koopatroopa-green_71
+  - first:
+      213: -4223999808863365520
+    second: koopatroopa-green_72
+  - first:
+      213: -7136380615309452248
+    second: koopatroopa-green_73
+  - first:
+      213: 8961125900215871632
+    second: koopatroopa-green_74
+  - first:
+      213: 8727392810467026088
+    second: koopatroopa-green_75
+  - first:
+      213: 6491002554852078987
+    second: koopatroopa-green_76
+  - first:
+      213: -6840167370947293292
+    second: koopatroopa-green_77
+  - first:
+      213: -783270096331595683
+    second: koopatroopa-green_78
+  - first:
+      213: -4905121937320211205
+    second: koopatroopa-green_79
+  - first:
+      213: -3844904571437018189
+    second: koopatroopa-green_80
+  - first:
+      213: -8930288410377124847
+    second: koopatroopa-green_81
+  - first:
+      213: -3334385437085830527
+    second: koopatroopa-green_82
+  - first:
+      213: 397955170187146739
+    second: koopatroopa-green_83
+  - first:
+      213: 997268131957938863
+    second: koopatroopa-green_84
+  - first:
+      213: -155329917408994205
+    second: koopatroopa-green_85
+  - first:
+      213: -1332448664066971480
+    second: koopatroopa-green_86
+  - first:
+      213: -6861568404780866555
+    second: koopatroopa-green_87
+  - first:
+      213: -6274451436931351922
+    second: koopatroopa-green_88
+  - first:
+      213: -8380103444448925339
+    second: koopatroopa-green_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koopatroopa-green_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b667ef23f5eaec42bbc8d6686576acc
+      internalID: 5089327112657895988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb35f2bca170543903a598f0cb21b1
+      internalID: -1575146893126350183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 383
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629089158a9e5fe42bbc1e854ef19b0e
+      internalID: -5018689876282076400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 382
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e1d2fb8387acf4da5b1131cd9860bb
+      internalID: -9144787364906299732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 381
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e09e3cb50f2964bbef7fe05f5b85af
+      internalID: 6941537187817036662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 381
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75185efda44bbd4ba82af6ca671693e
+      internalID: 8070138743630010029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 382
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb16bdd054c724a814ad8cddb6180e
+      internalID: -7461879068197148718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf59494d1fa7574f8cc66d7cc948e5e
+      internalID: 6971025046185168908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 388
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9d15dbaae20740bb7c143e852200c
+      internalID: 5135629374330656995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 389
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff4e3521d1c1264585cd131b9508a6f
+      internalID: -4191735543044358587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35a46ba0cd2e043a54cbf4be44e883
+      internalID: -2263127668122709447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 342
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744ef81f77deae4bbeb1f78682efec5
+      internalID: -9068812946581750586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 342
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc8195f677c254c8fb74ee0a9ad3c0
+      internalID: -5845457495479244265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 341
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98bc60e79e1fd42b4e62025c642a95
+      internalID: -6348833364456469331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 340
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b00141782fa84bbcc6e0a96c5228f
+      internalID: 475778036345915719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 340
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc462ea86866ae43a241dce37b4842a
+      internalID: -1511203040917489718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 341
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafbf680be2e48428deba0c31e28fea
+      internalID: 7048820356866308353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 342
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5a32d2abaec949a266f7e3c3a2eda
+      internalID: 4860385521934067244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 342
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf24da5fbec3c84b97846cb78586bf5
+      internalID: 8631487280097723694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84270d0487c0a45bd4d0a101b3de55
+      internalID: -5990030729113074118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 329
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b9a25b5fcbd334183c993cc95e64bd
+      internalID: 830280658611213044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 301
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ffd19b88563b54b82fdac4de8f1740
+      internalID: 3939221474225673842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 302
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba49623c48ae60c47be8d676257d680f
+      internalID: 3721120902366943098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 301
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6503a4050ad848b29aceb07099bba
+      internalID: 2120931459526877840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 300
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa9cacb432e6b4f877b7a5b1aa628e
+      internalID: -3089984345816752159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 300
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b2e53bfb630441804bd56e1d8fbbd
+      internalID: 4017488422531654701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 301
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb7acfeac87b81448659cd01974cdf1
+      internalID: -186186972456925920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 302
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae803a7da6673040843834809c32d84
+      internalID: -7653231408878250188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 301
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2025ab6012cb40ba0295e6327abac
+      internalID: -4591063991155498008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 329
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068a648aa6cb8e45bdd4abe296743a6
+      internalID: 315586037723585891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd1a5263d538a4396f1b6790cb876d
+      internalID: 7986461067904012259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 299
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3e0c3e77c6cc44a71786650c15ba2
+      internalID: -4922510093901421755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee0e0cb46cc0ce468cb561522811c3f
+      internalID: -1693071074909757358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 260
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74c493b028a1274d9042d3c0daff80a
+      internalID: 5608091901154062186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d48b2d2959fc894786e00109d4abcf6
+      internalID: 3791537115269242531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf668172e0561b54585e01079ad7c741
+      internalID: 102070270428219091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28a5152617b9c4eb7bd8d774422b02
+      internalID: 1834212398339323276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 261
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a664c5dada2289648a94c8cb5086e001
+      internalID: -3508848433438002565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 260
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54167639a61c52c4b9f3785109d9d934
+      internalID: 250700348793123915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 269
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3d653ffcb575479b2160e63eee47c
+      internalID: -1536059534147462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d956709af8e5c8d4999548db0a85d240
+      internalID: 1602157151778929545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 211
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731c589a57f7694f90da235769d17f5
+      internalID: 6495078234391727550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ec5446dd4dd743b0b5996c4fec7f4
+      internalID: 459183080613165097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ccf7af5c2afa4589b3ec5c50c0aab
+      internalID: 534352939439374064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f26ce24b34ea4bb41275bfc767088
+      internalID: -7576970879317430209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e343d7c1dd8ce54b82da1ea027e4590
+      internalID: 820669210308837348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5666734dd5b3ea4994a22f7f8daec0c
+      internalID: 5527669151171656439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 212
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b109d16c239aa3048bffc564c1168c87
+      internalID: 7020114554466464984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_48
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 211
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22384806740d6334db99f0c2df7e3f5e
+      internalID: 1997039699733641551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_49
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 207
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de00d2ef6c363b4ca1c7448d17fd90c
+      internalID: -760934598763887157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38742868b5b4c904e9721cbe198270d5
+      internalID: -2526792770577361826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 156
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e863d7618db4e4db2c6aabeedf6292
+      internalID: 7915820085773556917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80ab53d7dc179741806545511c176cb
+      internalID: 5412658002813703017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_53
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 161
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735c39465541cf4693827257cc12da5
+      internalID: -6616722094393509980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d136efddaf874d854e949a3ecc955
+      internalID: 8319081149305234200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_55
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 158
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567c14d66dd10c488f2e2f523da9c4c
+      internalID: 3174977811367840265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 161
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aca96ad566c8e46afa9d825c1221de
+      internalID: -5152732139995592832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ad11e7d7c3f84297a4c4e449ec8d5
+      internalID: -2787807013473905261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_58
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 156
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce55075a56192c24ba4191cd5cdebba9
+      internalID: -5853950230908335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40b041c2d490644b5ed0b0da34cd19
+      internalID: 8077589615554668603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 126
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1456b3928d10468ede6e80a4c3b79
+      internalID: -5122079857526219422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 123
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de615bc0a3e8cc643b6a5d5054f45b51
+      internalID: 5889468008507728218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f8323014a99c4f8cc5bb5e6e10954
+      internalID: 6117721629689643008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 121
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef342ecbf133664d8f1734b185cfc22
+      internalID: -7456190473740049891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5d0c294028dd4bb50200c6a04da01
+      internalID: 8531683349246314528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 122
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4ec670d69c8540aed2c1175be1820
+      internalID: -7035948960318807069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 123
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59075df27fcbe047b751ce37fdc37b5
+      internalID: 4663396046313190910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_67
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 126
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267a251f2e8fa44dbba213288a7b7fe
+      internalID: -8665048228411510702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b70b85839bc384084f812d27df8d9e
+      internalID: -5592687106606332432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_69
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4793f7044a584a9e37b5252409c93
+      internalID: -4401010858474199961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2756f64c10ac438dea13bb0503569
+      internalID: 9108860483887412294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3633ba3cb85f42459b580014156a415
+      internalID: 3991580837833363558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6055b3ca5374f4086cbee2e2f892d1
+      internalID: -4223999808863365520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_73
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 81
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0960626a1079a46881effdb3775b1a
+      internalID: -7136380615309452248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 82
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b044a181c3e79946aeaa8e97975c78c
+      internalID: 8961125900215871632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_75
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 82
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a01a76593c8f478b6ba360c6f19f9
+      internalID: 8727392810467026088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d6ecdb38420c24cbfa6155448bd366
+      internalID: 6491002554852078987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f6ed5108fe3b442ae3b21e037b3234
+      internalID: -6840167370947293292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e864e0e2adf5d24ebf8e3b95300eae5
+      internalID: -783270096331595683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f02e7fdb0cd744a7c7558326a6364
+      internalID: -4905121937320211205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 40
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24e77b8db1f3b64a95e3e66a0c24427
+      internalID: -3844904571437018189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_81
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 41
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf938d0f256ad44a9989137ae4f0369
+      internalID: -8930288410377124847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_82
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523e6acd27e129459404c97a351eb63
+      internalID: -3334385437085830527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252ca5150ca43843854ac7afa1e5129
+      internalID: 397955170187146739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12504392322f3354b9be6e3d9729f8ec
+      internalID: 997268131957938863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8139acabc826f48b37577a793e50e1
+      internalID: -155329917408994205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5872f859555a8b47807e8a91afc037c
+      internalID: -1332448664066971480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6001b65b98cc94b8251e51ea55f42d
+      internalID: -6861568404780866555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_88
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6218ffa3f12085c40b17ec4816141c09
+      internalID: -6274451436931351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koopatroopa-green_89
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac69f2ff0a5f24469c9c075d83d1603
+      internalID: -8380103444448925339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb09d29fed8a6cd42841d3df1944171b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
